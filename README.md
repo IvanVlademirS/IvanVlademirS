@@ -1,4 +1,5 @@
-### Hi there, here is what i'm working on. I will built out my GitHub more in July 2021. 👋
+### Hi there, here is what i'm working on. 👋
+*(I will built out my GitHub more in July 2021)*
 
 Here are some ideas to get you started:
 
