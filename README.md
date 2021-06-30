@@ -1,5 +1,5 @@
 ### Hi there, here is what i'm working on. 👋
-*(I will built out my GitHub more in July 2021)*
+*(I will build out my GitHub more in July 2021)*
 
 Here are some ideas to get you started:
 
@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://www.linkedin.com/in/ivanvlad/
 - 😄 Current Goal: ... Transition towards a cloud security engineering/architecture role
-- ⚡ Fun fact: ... I am a really good surfer
+- ⚡ Fun fact: ... I am a really good surfer🌊
 -->
