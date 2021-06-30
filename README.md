@@ -9,4 +9,3 @@
 - 📫 How to reach me: ... https://www.linkedin.com/in/ivanvlad/
 - 😄 Current Goal: ... Transition towards a cloud security engineering/architecture role
 - ⚡ Fun fact: ... I am a really good surfer🌊
--->
