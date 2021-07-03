@@ -1,11 +1,11 @@
-### Hi there, here is what i'm working on. 👋
-*(I will build out my GitHub more in July 2021)*
+### Hi! 👋
 
-- 🔭 I’m currently working on ... CCSP (sittting for July 21)
-- 🌱 I’m currently learning ... All things Cloud Security
+- 🔭 I’m currently working on ... CCSP (sittting for exam on July 21)
+- 🌱 I’m currently learning ... All things Cloud Security Architecture
 - 👯 I’m looking to collaborate on ... K8s 
-- 🤔 I’m looking for help with ... K8s , interested in CKA and CKS
-- 💬 Ask me about ... Anything
+- 🤔 I’m looking for help with ... K8s , interested in CKA -> CKS path
 - 📫 How to reach me: ... https://www.linkedin.com/in/ivanvlad/
 - 😄 Current Goal: ... Transition towards a cloud security engineering/architecture role
 - ⚡ Fun fact: ... I am a really good surfer🌊
+
+*Take a look at my repos below for IT Projects, Work Samples, Documentation, etc.* 
