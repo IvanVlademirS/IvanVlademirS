@@ -1,7 +1,6 @@
 ### Hi! 👋
 *Welcome Note:
-Welcome to my Github. Github is utilized for internet hosting for software development and version control using Git.  
-I am also utilizing it to showcase worksamples and projects via repositories pinned below.*
+Welcome to my Github. Github is utilized for internet hosting for software development and version control using Git. I am also utilizing it to showcase worksamples and projects via repositories pinned below.*
 
 My name is Ivan - I'm a tech professional focused on all things <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/6a3eb49dcefc1b579d680e5116ff7df3bc8540b1/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="90" height="55">
 - 🔭 I’m currently working on ... CCSP (sittting for exam on July 21)
