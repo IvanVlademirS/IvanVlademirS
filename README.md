@@ -15,13 +15,13 @@ I am also utilizing it to showcase worksamples and projects via repositories pin
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| 🔭 |I’m currently working on | CCSP (sittting for exam on July 21) |
+| 🔭 |I’m currently working on: | *CCSP (sittting for exam on July 21)* |
 | --------|-----------| ----------- |
-| 🌱 | I’m currently learning | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/6a3eb49dcefc1b579d680e5116ff7df3bc8540b1/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="50" height="28"> Cloud Security Architecture |
-| 👯 | I’m looking to collaborate on | K8s & Cloud github projects |
-| 🤔 | I’m looking for help with | K8s, interested in CKA -> CKS path |
-| 😄   | Current Goal | Cloud Security or SA role |
-| ⚡   | Fun fact | I am a really good surfer🌊 |
+| 🌱 | **I’m currently learning**: | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/6a3eb49dcefc1b579d680e5116ff7df3bc8540b1/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="50" height="28"> *Cloud Security & Architecture* |
+| 👯 | **I’m looking to collaborate on**: | *K8s & Cloud github projects* |
+| 🤔 | **I’m looking for help with**: | *K8s, interested in CKA -> CKS path* |
+| 😄   | **Current Goal**: | *Cloud Security or SA role* |
+| ⚡   | **Fun fact**: | *I am a good surfer*🌊 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
