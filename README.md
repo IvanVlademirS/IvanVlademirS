@@ -3,7 +3,7 @@
 <h3 align="center">  InfoSec | Cloud </h3> <br>
 
 <p align="center"> 
-<a href="https://https://www.linkedin.com/in/ivanvlad//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
+<a href="https://https://www.linkedin.com/in/ivanvlad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
 <a href="https://steamcommunity.com/id/IceCreamCookies/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://infosecdojo.blogspot.com/"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 
