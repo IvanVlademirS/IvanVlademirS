@@ -1,17 +1,33 @@
-### Hi! 👋
-*Welcome Note:
-Welcome to my Github. Github is utilized for internet hosting for software development and version control using Git. I am also utilizing it to showcase worksamples and projects via repositories pinned below.*
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello, I'm Ivan  </h1>
 
-My name is Ivan - I'm a tech professional focused on all things <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/6a3eb49dcefc1b579d680e5116ff7df3bc8540b1/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="90" height="55">
-- 🔭 I’m currently working on ... CCSP (sittting for exam on July 21)
-- 🌱 I’m currently learning ... Cloud Security Architecture
-- 👯 I’m looking to collaborate on ... K8s & Cloud github projects
-- 🤔 I’m looking for help with ... K8s , interested in CKA -> CKS path
-- 📫 How to reach me: ... https://www.linkedin.com/in/ivanvlad/
-- 😄 Current Goal: ... Transition towards a cloud security engineering/architecture role
-- ⚡ Fun fact: ... I am a really good surfer🌊
+<h3 align="center">  InfoSec | Cloud </h3> <br>
+
+<p align="center"> 
+<a href="https://https://www.linkedin.com/in/ivanvlad//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
+<a href="https://steamcommunity.com/id/IceCreamCookies/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://infosecdojo.blogspot.com/"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+
+
+<pre><code>Welcome to my Github.  
+I'm an InfoSec professional focused on all things cloud.  
+Github is utilized for internet hosting for software development and version control using Git.  
+I am also utilizing it to showcase worksamples and projects via repositories pinned below.
+</code></pre>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| 🔭 |I’m currently working on | CCSP (sittting for exam on July 21) |
+| --------|-----------| ----------- |
+| 🌱 | I’m currently learning | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/6a3eb49dcefc1b579d680e5116ff7df3bc8540b1/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="50" height="28"> Cloud Security Architecture |
+| 👯 | I’m looking to collaborate on | K8s & Cloud github projects |
+| 🤔 | I’m looking for help with | K8s, interested in CKA -> CKS path |
+| 😄   | Current Goal | Cloud Security or SA role |
+| ⚡   | Fun fact | I am a really good surfer🌊 |
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Take a look at my repos below for IT Projects, Work Samples, Documentation, etc.* 
+<h3 align="center">  <a href="#"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg "></a></h3>
+
 
 
 
