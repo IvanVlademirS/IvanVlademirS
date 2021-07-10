@@ -10,7 +10,7 @@
 
 <pre><code>Welcome to my Github.  
 Github is utilized for internet hosting for software development and version control using Git.  
-I am also utilizing it to showcase worksamples and projects via repositories pinned below.
+I am mainly utilizing it to showcase & host IT worksamples and projects via repositories pinned below.
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
