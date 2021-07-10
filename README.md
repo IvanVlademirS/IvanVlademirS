@@ -9,7 +9,6 @@
 
 
 <pre><code>Welcome to my Github.  
-I'm an InfoSec professional focused on all things cloud.  
 Github is utilized for internet hosting for software development and version control using Git.  
 I am also utilizing it to showcase worksamples and projects via repositories pinned below.
 </code></pre>
