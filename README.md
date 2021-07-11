@@ -18,7 +18,7 @@ I am mainly utilizing it to showcase & host IT worksamples and projects via repo
 
 | 🔭 | Topic | Description  |
 | --------|-----------| ----------- |
-| 📚 | **I’m currently learning**: | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/6a3eb49dcefc1b579d680e5116ff7df3bc8540b1/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="50" height="28"> *Cloud Security & Architecture* |
+| 📚 | **I’m currently learning**: | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/7dc6ce4eda73a9fa90b78049e49f7257e1d7c1fd/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="45" height="25"> *Cloud Security & Architecture* |
 | 👯 | **I’m looking to collaborate on**: | *K8s & Cloud github projects* |
 | 🤔 | **I’m looking for help with**: | *K8s, interested in CKA -> CKS path* |
 | ⚡   | **Fun fact**: | *I am a good surfer*🌊 |
