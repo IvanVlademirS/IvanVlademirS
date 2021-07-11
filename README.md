@@ -26,7 +26,7 @@ I am mainly utilizing it to showcase & host IT worksamples and projects via repo
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h4 align="center"> 
-🟢🔵🟣Scroll down to take a look at the repos below for IT Projects, Labs, Work Samples, & Documentation.🔴🟠🟡
+🟢🔵🟣Scroll down to take a look at the repos below for IT Projects, Labs, Work Samples, & Documentation.⚪🔴🟠   
 <h3 align="center">  <a href="#"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg "></a></h3>
 </h3> <br>
 
