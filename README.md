@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello, I'm Ivan  </h1>
 
-<h3 align="center">  InfoSec | Cloud </h3> <br>
+<h3 align="center">  InfoSec Pro | Cloud Focus </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/ivanvlad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
