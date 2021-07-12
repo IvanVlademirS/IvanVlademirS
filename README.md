@@ -22,16 +22,15 @@
 | 👯 | **I’m looking to collaborate on**: | *K8s & Cloud github projects* |
 | 🤔 | **I’m looking for help with**: | *K8s, interested in CKA -> CKS path* |
 | ⚡   | **Fun fact**: | *I am a good surfer*🌊 |
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <pre><code>-Click "BUILT WITH <3" link below to view my digital portfolio.  
 -Scroll down to take a look at the repos below for IT Projects, Labs, Work Samples, & Documentation.
 </code></pre>
 
-<h3 align="center">  🟢🔵🟣<a href="https://ivanvlademirs.github.io/Digital_Career_Portfolio/"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg "></a>🟤🔴🟠
+<h3 align="center"> 
+<a href="https://ivanvlademirs.github.io/Digital_Career_Portfolio/"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg ">
 </h3>
-<h4 align="center"> 
 
-</h4> 
 
 
 
