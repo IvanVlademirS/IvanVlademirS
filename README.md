@@ -31,7 +31,3 @@
 <a href="https://ivanvlademirs.github.io/Digital_Career_Portfolio/"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg ">
 </h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=IvanVlademirS&label=Profile%20views&color=0e75b6&style=flat" alt="IvanVlademirS" /> </p>
-
-
-
