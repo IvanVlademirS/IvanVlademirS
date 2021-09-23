@@ -16,13 +16,17 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
 | 🔭 | Topic | Description  |
 | --------|-----------| ----------- |
-| 📚 | **I’m currently learning**: | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/7dc6ce4eda73a9fa90b78049e49f7257e1d7c1fd/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="45" height="25"> *Cloud Security & Architecture* |
-| 👯 | **I’m looking to collaborate on**: | *Cloud labs & projects* |
-| 🤔 | **I’m looking for help with**: | *Multi-Cloud Compliance Strategy* |
+| 📚 | **I’m currently learning**: | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/7dc6ce4eda73a9fa90b78049e49f7257e1d7c1fd/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="45" height="25"> *Cloud Security Architecture* |
+| 👯 | **I’m looking to collaborate on**: | *Cloud labs* |
+| 🤔 | **I’m looking for help with**: | *Multi-Cloud Compliance* |
 | ⚡   | **Fun fact**: | *I am a good surfer*🌊 |
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <pre><code>-Click "BUILT WITH <3" link below to view my digital portfolio.  
 -Scroll down to take a look at the repos below for IT Projects, Labs, Work Samples, & Documentation.
 </code></pre>
