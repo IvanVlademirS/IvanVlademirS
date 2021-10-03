@@ -28,7 +28,7 @@
 
 
 <pre><code>-Click "BUILT WITH <3" link below to view my digital portfolio.  
--Scroll down to take a look at the repos below for IT Projects, Labs, Work Samples, & Documentation.
+-Scroll down to view the repositories below for IT Projects, Labs, Work Samples, & Documentation.
 </code></pre>
 
 <h3 align="center"> 
