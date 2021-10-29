@@ -19,7 +19,7 @@
 
 | 🔭 | Topic | Description  |
 | --------|-----------| ----------- |
-| 📚 | **I’m currently learning**: | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/7dc6ce4eda73a9fa90b78049e49f7257e1d7c1fd/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="45" height="25"> *Cloud Security Architecture* |
+| 📚 | **I’m currently learning**: | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/7dc6ce4eda73a9fa90b78049e49f7257e1d7c1fd/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="45" height="25"> *Cloud Security* |
 | 👯 | **I’m looking to collaborate on**: | *Cloud labs* |
 | 🤔 | **I’m looking for help with**: | *Multi-Cloud Compliance* |
 | ⚡   | **Fun fact**: | *I am a good surfer*🌊 |
