@@ -10,7 +10,7 @@
 
 <pre><code>Welcome to my Github.  
 -Github is utilized for internet hosting for software development and version control using Git.  
--I am mainly utilizing it to showcase & host IT worksamples and projects via repositories pinned below.
+-I am mainly utilizing it to showcase & host IT worksamples, labs, and documentation via repositories pinned below.
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<pre><code>-Click "BUILT WITH <3" link below to view my digital portfolio.  
+<pre><code>-Click "BUILT WITH <3" icon below to view my digital portfolio.  
 -Scroll down to view the repositories below for IT Projects, Labs, Work Samples, & Documentation.
 </code></pre>
 
@@ -35,3 +35,12 @@
 <a href="https://ivanvlademirs.github.io/Digital_Career_Portfolio/"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg ">
 </h3>
 
+<details>
+<summary> 📊 GitHub Stats (click to expand) </summary>
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=IvanVlademirS&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=IvanVlademirS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanVlademirS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</details>
