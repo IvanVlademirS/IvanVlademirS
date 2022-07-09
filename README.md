@@ -19,16 +19,17 @@
 
 | 🔭 | Topic | Description  |
 | --------|-----------| ----------- |
-| 📚 | **I’m learning**: | <img src="https://github.com/IvanVlademirS/IvanVlademirS/blob/7dc6ce4eda73a9fa90b78049e49f7257e1d7c1fd/a992fda7d46e66609b14edb33d03af0cbc9a7997r1-500-330_hq.gif" width="45" height="25"> *Security* |
+| 📚 | **What I’m learning**: | [*View My Roadmap*](https://sky-packet-f2e.notion.site/21095d5adc1a4a77916c1a849420bf71?v=e5304eb3aefa421b97b8c4f8b640d4eb) |
 | 👯 | **Collaborate with me on**: | *Cloud projects/labs* |
-| 🤔 | **Help me with**: | *Multi-Cloud Compliance* |
+| 🤔 | **Help me with**: | *Automating Cloud Compliance* |
 | ⚡   | **Fun fact**: | *I am a good surfer*🌊 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<pre><code>-Click "BUILT WITH <3" icon below to view my digital portfolio.  
+<pre><code>
 -Scroll down to view the repositories below for IT Projects, Labs, Work Samples, & Documentation.
+-Click "BUILT WITH <3" icon below to view my digital portfolio.  
 </code></pre>
 
 <h3 align="center"> 
