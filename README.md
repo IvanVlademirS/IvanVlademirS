@@ -12,7 +12,7 @@
 🟡Github is utilized for internet hosting for software development and version control using Git.
 🟢View my IT projects, labs, and documentation via my repositories pinned below (scroll to "Pinned" section).
 🔵To view my digital portfolio, click the orange "BUILT WITH <3" icon below.
-🟣Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks! ✊
+🟣Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks!✊
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
