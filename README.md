@@ -37,7 +37,7 @@
 </h3>
 
 <details>
-<summary> 📊 GitHub Stats (click to expand) </summary>
+<summary> 📊 GitHub Stats (click to expand data) </summary>
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=IvanVlademirS&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
