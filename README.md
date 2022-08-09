@@ -8,10 +8,9 @@
 <a href="https://medium.com/@IvanVladS"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 
 
-<pre><code>Welcome to my Github.  
-🟡 Github is utilized for internet hosting for software development and version control using Git.
-🟢 View my IT projects, labs, and documentation via my repositories pinned below (scroll to "Pinned" section).
-🔵 To view my digital portfolio, click the orange "BUILT WITH <3" icon below.
+<pre><code>Welcome to my Github. Github is utilized for internet hosting for software development and version control using Git.
+🟢 To view my IT projects, labs, and documentaion repos: 👉 scroll down to "Pinned" section.
+🔵 To view my digital portfolio: 👉 click the orange "BUILT WITH <3" icon below.
 🟣 Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks!✊
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,9 +30,3 @@
 <h3 align="center"> 
 <a href="https://ivanvlademirs.github.io/Digital_Career_Portfolio/"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg ">
 </h3>
-
-![](https://github-profile-trophy.vercel.app/?username=IvanVlademirS&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-readme-stats.vercel.app/api?username=IvanVlademirS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanVlademirS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</details>
