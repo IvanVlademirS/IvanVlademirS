@@ -21,7 +21,7 @@
 | 🔭 | About Me | Description  |
 | --------|-----------| ----------- |
 | 📚 | **What I’m learning**: | [*View My Roadmap (on Notion)*](https://sky-packet-f2e.notion.site/21095d5adc1a4a77916c1a849420bf71?v=e5304eb3aefa421b97b8c4f8b640d4eb) |
-| 👯 | **Collaborate with me on**: | *Engineering & Architecture Projects* |
+| 👯 | **Collaborate with me on**: | *Fullstack or Security Projects* |
 | 🤔 | **Help me with**: | *Automating Cloud Compliance* |
 | ⚡   | **Fun fact**: | *I am a good surfer*🌊 |
 
