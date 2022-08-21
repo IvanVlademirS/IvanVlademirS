@@ -8,7 +8,8 @@
 <a href="https://medium.com/@IvanVladS"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 
 
-<pre><code>Welcome to my Github. Github is utilized for internet hosting for software development and version control using Git.
+<pre><code>Welcome to my Github! 
+Github is utilized for internet hosting for software development and version control using Git.
 🟢 To view my IT projects, labs, and documentaion repos: 👉 scroll down to "Pinned" section.
 🔵 To view my digital portfolio: 👉 click the orange "BUILT WITH <3" icon below.
 🟣 Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks!✊
