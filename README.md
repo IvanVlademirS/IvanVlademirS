@@ -9,7 +9,8 @@
 
 
 <pre><code>Welcome to my Github! 
-Github is utilized for internet hosting for software development and version control using Git.
+Github is utilized for internet hosting for software development and version control using Git. 
+Additionaly, I utilize it as a deliverable showcase. 
 🟢 To view my IT projects, labs, and documentaion repos: 👉 scroll down to "Pinned" section.
 🔵 To view my digital portfolio: 👉 click the orange "BUILT WITH <3" icon below.
 🟣 Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks!✊
