@@ -11,7 +11,6 @@
 <pre><code>Welcome to my Github! 
 Github is utilized for internet hosting for software development and version control using Git. 
 🟢 To view my IT projects, labs, and documentaion repos: 👉 scroll down to "Pinned" section.
-🔵 To view my digital portfolio: 👉 click the orange "BUILT WITH <3" icon below.
 🟣 Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks!✊
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,13 +20,9 @@ Github is utilized for internet hosting for software development and version con
 
 | 🔭 | About Me | Description  |
 | --------|-----------| ----------- |
-| 📚 | **What I’m learning**: | [*View My Roadmap (on Notion)*](https://sky-packet-f2e.notion.site/21095d5adc1a4a77916c1a849420bf71?v=e5304eb3aefa421b97b8c4f8b640d4eb) |
-| 👯 | **Collaborate with me on**: | *Fullstack or Security Projects* |
+| 👀 | **View My Websites**: | [*👉 All my Links (click)*](https://ivanvlademirs.github.io/ivan_websites/) |
+| 📚 | **What I’m learning**: | [*👉 My Roadmap (click)*](https://sky-packet-f2e.notion.site/21095d5adc1a4a77916c1a849420bf71?v=e5304eb3aefa421b97b8c4f8b640d4eb) |
 | 🤔 | **Help me with**: | *Automating Cloud Compliance* |
-| ⚡   | **Fun fact**: | *I am a good surfer*🌊 |
+| ⚡   | **Fun fact**: | *I am a good surfer* 🌊 |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h3 align="center"> 
-<a href="https://ivanvlademirs.github.io/Digital_Career_Portfolio/"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg ">
-</h3>
