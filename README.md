@@ -3,7 +3,7 @@
 <h3 align="center">  Tech Professional | Security Focus </h3> 
 
 <pre><code>Welcome to my Github! 
-🟢 To view my IT projects, labs, and documentaion repos: 👉 scroll down to "Pinned" section.
+🟢 To view my Tech docs, projects, lab repos: 👉 scroll down to "Pinned" section.
 🟣 Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks!✊
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
