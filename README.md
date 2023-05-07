@@ -3,7 +3,6 @@
 <h3 align="center">  Tech Professional | Security Focus </h3> 
 
 <pre><code>Welcome to my Github! 
-Github is utilized for internet hosting for software development and version control using Git. 
 🟢 To view my IT projects, labs, and documentaion repos: 👉 scroll down to "Pinned" section.
 🟣 Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks!✊
 </code></pre>
