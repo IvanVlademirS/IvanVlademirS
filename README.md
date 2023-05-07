@@ -4,7 +4,7 @@
 
 <pre><code>Welcome to my Github! 
 🟢 To view my Tech docs, projects, lab repos: 👉 scroll down to "Pinned" section.
-🟣 Feel free to connect with me on LinkedIn or reach out for any questions/feedback, Thanks!✊
+🟣 Connect with me on LinkedIn or reach out with any questions/feedback, Thanks!✊
 </code></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
